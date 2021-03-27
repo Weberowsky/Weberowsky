@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Weberowsky/Weberowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im verified discord bot developer from Poland.
 
-Here are some ideas to get you started:
+- ✨ I’m currently learning Java and JavaScript
+- 🧻 My discord server: [UltraGuard Dev](https://discord.gg/qXPG2hAxPY)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code> 
+
+### 
+
+**Idiots List:**
+
+- L3CT
