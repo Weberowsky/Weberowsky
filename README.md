@@ -3,7 +3,7 @@
 **Im verified discord bot developer from Poland.**
 
 - ✨ I’m currently learning Java and JavaScript
-- 🧻 My discord server: [UltraGuard Dev](https://discord.gg/qXPG2hAxPY)
+<!-- - 🧻 My discord server: [UltraGuard Dev](https://discord.gg/qXPG2hAxPY) -->
 
 
 **Languages:**  
