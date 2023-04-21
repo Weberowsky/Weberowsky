@@ -13,9 +13,3 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code> 
 <code><img height='20' src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></code>
 <code><img height='20' src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
-
-### 
-
-**Idiots List:**
-
-- L3CT
