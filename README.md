@@ -17,6 +17,8 @@ My name is Filip, and I'm a 14-year-old Discord bot developer from Poland.
 <img align="left" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="left" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
+<br><br>
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
