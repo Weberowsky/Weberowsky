@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Filip, and I'm a 14-year-old Discord bot developer from Poland.
+My name is Filip, and I'm a Discord bot developer from Poland.
 
 - 🌱 I’m currently learning HTML and CSS
 - 💻 I enjoy working with JavaScript, Node.js, and Python
